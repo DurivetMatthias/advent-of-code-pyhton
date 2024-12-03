@@ -1,4 +1,4 @@
-# https://adventofcode.com/2024/day/1
+# https://adventofcode.com/2024/day/2
 import input
 
 puzzle = input.read_puzzle_input("data/2024/02/real.txt")
